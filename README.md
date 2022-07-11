@@ -1,21 +1,17 @@
-# Welcome!
+# 계산기 관리자 API 설계
 
-## Welcome to MyAPI
+## 설계 api 목록
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+### 계정 관련
 
-## Want to jump right in?
+1. 로그인
+2. 회원가입
 
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
+### 관리 관련
 
-{% content-ref url="quick-start.md" %}
-[quick-start.md](quick-start.md)
-{% endcontent-ref %}
+1. 업체등록
+2. 업체목록
+3. 업체기본정보
+4. 회원목록
+5. 업체관리자목록
 
-## Want to deep dive?
-
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
-
-{% content-ref url="reference/api-reference/" %}
-[api-reference](reference/api-reference/)
-{% endcontent-ref %}
